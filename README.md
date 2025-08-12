@@ -1,24 +1,24 @@
 # Reverse String (OOP in Java)
 
-## 📌 Overview
+##  Overview
 This Java program reverses a string **without using built-in reverse functions**.  
 It demonstrates **Object-Oriented Programming (OOP)** concepts such as **encapsulation** and **method-based design**.
 
 ---
 
-## 🚀 Features
+##  Features
 - No `StringBuilder.reverse()` or library shortcuts.
 - Manual character-by-character reversal.
 - Encapsulated string inside a class for clean structure.
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 - **Java** (JDK 8 or higher)
 
 ---
 
-## 📜 Code
+##  Code
 
 ### StringReverser.java
 ```java
